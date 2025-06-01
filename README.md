@@ -2,6 +2,8 @@
 
 A Python application that visualizes the backtracking algorithm solving Sudoku puzzles.
 
+https://github.com/user-attachments/assets/663bb62c-de4d-43ff-8103-c244b4cbcc12
+
 ## Features
 
 - Modern, dark-themed GUI using CustomTkinter
